@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in Elixir when using `Enum.reduce`. The `bug.exs` file contains code that attempts to sum elements greater than 3 in a list. However, it contains a logical error that causes an incorrect result. The `bugSolution.exs` file provides the corrected version with a clear explanation.
